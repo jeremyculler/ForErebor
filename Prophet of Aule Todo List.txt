@@ -1,0 +1,13 @@
+Prophet of Aule Todo List
+[ ] add sound effects
+[ ] add temporary powerups / buff
+[ ] summoning reinforcements
+[ ] add area effect skill
+[ ] add passive projectile skill
+[ ] redo landing screen, add level select
+[ ] replace character
+[x] Catch your own axes
+[x] fix glitch with bow orc spazzing
+[x] fix glitch where orc spawns on top of a troll
+[x] enemies no longer impervious when doing hit animation,
+[ ] trolls disapeared for Ryan
