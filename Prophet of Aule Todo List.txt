@@ -10,11 +10,24 @@ Prophet of Aule Todo List
 [x] fix glitch with bow orc spazzing
 [x] fix glitch where orc spawns on top of a troll
 [x] enemies no longer impervious when doing hit animation,
-[ ] Add Tall Orc
+[x] Add Tall Orc
 	[x] add death animation
 	[x] add walk animation
 	[x] add attack animation
 	[x] Refactor Enemy Bullet logic into Family
  		[x] so it does damage
-	[ ] add to enemy wave code
-	[ ] add to enemy wave json
+	[x] add to enemy wave code
+	[x] add to enemy wave json
+[x] color code enemy bullets with red outline
+[x] color code all collectables with blue outline
+[x] Fade dead enemies out over time
+[x] Introduce Gold
+	[x] create sprite for gold
+	[x] when enemy is stomped chance to drop gold
+	[x] able to collect and keep track of gold
+[ ] Allow player to spend gold to respawn
+[ ] fix dragon 
+	[ ] animations
+	[ ] balancing
+	[ ] tail chop
+
